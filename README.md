@@ -2,10 +2,11 @@
 
 FMT web application connects people to share the ride.  
 
+* ### Live Demo URL: ***https://fmtwebapp.herokuapp.com/***
 * Date Created: 2020-06-14
 * Last Modification Date: 2021-01-05
 
-## Authors
+## Author
 
 * Jigar Makwana(Jigar.Makwana@dal.ca) - (Developer)
 
@@ -14,7 +15,7 @@ FMT web application connects people to share the ride.
 
 To test the web application follow the below sections.
 
-##To run Locally
+## To run Locally
 
 1. Clone the following directory to you local system.
 	***https://git.cs.dal.ca/jmakwana/a2_jigar_makwana/-/tree/master/A2***
