@@ -44,7 +44,7 @@ Currently there are 7 functional pages are up on the website. Additionally 2 mor
 one to show the message that pages are under implementation and another is to show 404 error when 
 invalid url is encountered.
 
-** the following are the working pages** 
+**the following are the working pages** 
 1. Landing page (Home Page)
 2. Sign Up page
 3. Login page
@@ -53,7 +53,7 @@ invalid url is encountered.
 6. Notification page
 7. Feedback page
 
-** Additional pages** 
+**Additional pages** 
 8. Car Journey page: Shows message Under Implementation
 9. Air Journey page: Shows message Under Implementation
 10. About Us: Shows message Under Implementation
@@ -64,27 +64,27 @@ invalid url is encountered.
 15. Privacy Policy: Shows message Under Implementation
 16. 404 Error page: Shows message page not found
 
-** Working icons in footer** 
+**Working icons in footer** 
 17. Facebook icon: For now, redirects the user to Facebook Login page
 18. Instagram icon: For now, redirects the user to Instagram Login page
 19. Twitter icon: For now, redirects the user to Twitter Login page
 
 **Note:** 
-** 1.**  For this assignment the notification bell icon is shown in header along with 
+**1.**  For this assignment the notification bell icon is shown in header along with 
 Sign Up, Login and other navigation liks. In the actual website the bell icon does
 not show up until the user is logged in. Once the user logs in, the Sign Up and Login
 links gets disappear from header and new navigation liks Notification (bell) icon and
 User Profile icons appears in the header.
 
-** 2**  To go to Reset Password page, Enter the valid email id on Forgot Password and click
+**2**  To go to Reset Password page, Enter the valid email id on Forgot Password and click
 "Send Password Link". In actual website on cliking this button a reset password link is 
 sent to the entered email id. Once clicking on that link the user gets redirected to the
 reset password page. For demonstating the Reset Password functionality "Send Password Link"
 redirects to the Reset Password page.
 
-** 3.**  Back (Previous) arrow on notifocation page redirects to Home page.
+**3.**  Back (Previous) arrow on notifocation page redirects to Home page.
 
-** 4.**  Entering valid details on Sign Up page redirects to Login page.
+**4.**  Entering valid details on Sign Up page redirects to Login page.
 
 ### Break down into end to end tests
 
