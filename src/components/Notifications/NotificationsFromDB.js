@@ -1,0 +1,26 @@
+const datamap = new Map(
+    [["Mona has sent you a message","5 hours ago"],
+    ["Your Journey to Halifax has ended","Yesterday 11:00 PM"],
+    ["Your Journey to Halifax has started","Yesterday 08:00 PM"],
+    ["You have a new request from Anne","Yesterday 11:00 AM"],
+    ["Jigar has sent you a message","2020-06-11 11:00 AM"],
+    ["Your Journey to Dartmouth has ended","2020-06-11 11:00 AM"],
+    ["Your Journey to Dartmouth has started","2020-06-11 11:00 AM"],
+    ["Your Journey to Northwood has ended","2020-06-11 11:00 AM"],
+    ["Your Journey to Northwood has started","2020-06-11 11:00 AM"],
+    ["Jigar has accepted your request","2020-06-11 11:00 AM"],
+    ["You have a new request from Stephanie","2020-06-10 11:00 AM"],
+    ["You have a new request Maya","2020-06-11 11:00 AM"],
+    ["Maya has sent you a message","2020-06-11 11:00 AM"],
+    ["Your Journey to Spring Garden has ended","2020-06-11 11:00 AM"],
+    ["Your Journey to Spring Garden has started","2020-06-11 11:00 AM"],
+    ["You have a new request from Dev","2020-06-11 11:00 AM"],
+    ["Laura has sent you a message","2020-06-11 11:00 AM"],
+    ["Your Journey to Micmac has ended","2020-06-11 11:00 AM"],
+    ["Your Journey to Micmac has started","2020-06-11 11:00 AM"],
+    ["Your Journey to Dalhousie has ended","2020-06-11 11:00 AM"],
+    ["Your Journey to Dalhousie has started","2020-06-11 11:00 AM"],
+    ["Robert has accepted your request","2020-06-11 11:00 AM"],
+    ["You have a new request from John","2020-06-08 11:00 AM"]]);
+
+export default datamap;

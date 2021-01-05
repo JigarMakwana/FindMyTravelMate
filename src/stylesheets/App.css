@@ -1,0 +1,12 @@
+.App {
+  background: rgb(236,230,230);
+  background: radial-gradient(circle, rgba(236,230,230,1) 22%, rgba(165,255,196,1) 66%, rgba(95,255,224,1) 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  text-align: center;
+  width: 100%;
+}
+
+
+

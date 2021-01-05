@@ -1,0 +1,12 @@
+.login-card {
+    min-height: 50vh;
+    background: rgb(100,205,138);
+    background: linear-gradient(0deg, rgba(100,205,138,1) 22%, rgba(124,123,123,1) 87%);
+    margin-bottom: 120px;
+}
+.registerMessage {
+    margin-top: 2vh;
+}
+.forgot-password{
+    margin-top: 2vh;
+}
