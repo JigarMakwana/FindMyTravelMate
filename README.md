@@ -45,6 +45,7 @@ one to show the message that pages are under implementation and another is to sh
 invalid url is encountered.
 
 **the following are the working pages** 
+
 1. Landing page (Home Page)
 2. Sign Up page
 3. Login page
@@ -53,7 +54,8 @@ invalid url is encountered.
 6. Notification page
 7. Feedback page
 
-**Additional pages** 
+**Additional pages**
+
 8. Car Journey page: Shows message Under Implementation
 9. Air Journey page: Shows message Under Implementation
 10. About Us: Shows message Under Implementation
@@ -65,6 +67,7 @@ invalid url is encountered.
 16. 404 Error page: Shows message page not found
 
 **Working icons in footer** 
+
 17. Facebook icon: For now, redirects the user to Facebook Login page
 18. Instagram icon: For now, redirects the user to Instagram Login page
 19. Twitter icon: For now, redirects the user to Twitter Login page
