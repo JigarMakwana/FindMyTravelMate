@@ -72,7 +72,8 @@ invalid url is encountered.
 18. Instagram icon: For now, redirects the user to Instagram Login page
 19. Twitter icon: For now, redirects the user to Twitter Login page
 
-**Note:** 
+**Note:**
+
 **1.**  For this assignment the notification bell icon is shown in header along with 
 Sign Up, Login and other navigation liks. In the actual website the bell icon does
 not show up until the user is logged in. Once the user logs in, the Sign Up and Login
